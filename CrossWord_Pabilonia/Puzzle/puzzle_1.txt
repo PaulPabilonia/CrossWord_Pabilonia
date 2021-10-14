@@ -1,0 +1,12 @@
+x|y|direction|number|word|clue
+5|5|across|1|pabilonia|My family name.P_________a
+5|5|down|1|philippines|My country. Phi______nes
+10|4|down|2|comsci|My course. BS in C__S_i
+5|10|across|3|paul|My first name. P__L
+8|8|down|4|wilfred|My second name W_______d
+10|8|across|5|csharp|PL Created by Microsoft
+15|8|down|6|python|PL that has logo of snake
+3|15|across|7|css|Style sheet language
+14|10|across|8|html|Markup Language to design web pages
+13|12|across|9|google|G _ _ _ _ E everyones friend
+8|13|across|10|excel|E___L is a spreadsheet
