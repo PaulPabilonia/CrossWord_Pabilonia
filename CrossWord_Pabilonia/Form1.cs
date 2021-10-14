@@ -26,7 +26,7 @@ namespace CrossWord_Pabilonia
         );
 
         List<cells> cls = new List<cells>();
-        public String puzzleFile = "C:\\Users\\Paul\\source\\repos\\CrossWord_Pabilonia\\CrossWord_Pabilonia\\Puzzle\\puzzle_1.txt";
+        public String puzzleFile = "Puzzle\\puzzle_1.txt";
         public Form1()
         {
             puzzleList();
